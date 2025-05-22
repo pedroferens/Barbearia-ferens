@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#missao {
+  font-size: 20px;
+}
+
+h2 {
+   text-align: center ;
+}
+
+img{
+  width: 100%;
+}
+
+.beneficios{
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.item{
+  font-style: italic;
+}
+
+.imagem-beneficios{
+  width: 50%;  
+}
+
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right:   15%;
+}
+
+.principal{
+  background-color: #cccccc;
+  padding: 30px;
+}
